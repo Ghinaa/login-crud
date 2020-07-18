@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/login-form/';
+	public $baseURL = 'http://localhost/login-crud/';
 
 	/*
 	|--------------------------------------------------------------------------

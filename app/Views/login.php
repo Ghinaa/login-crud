@@ -78,7 +78,7 @@
                     if ( $cek_password <> $password){
                     echo"<script> alert('Kata Sandi Salah') </script>";
                     } else {
-                    echo"<script>document.location.href='creative.php'</script>";
+                    echo"<script>document.location.href='User_login'</script>";
                     }
                 } else {
                     echo"<script> alert('Username tidak terdaftar') </script>";
